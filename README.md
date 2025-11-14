@@ -3,7 +3,7 @@
 A modern, responsive task management application built with React and Node.js.
 
 ## 🚀 Live Demo
-[View Live on GitHub Pages](https://yourusername.github.io/taskninja)
+[View Live on GitHub Pages](https://rayaishik.github.io/taskninja)
 
 ## 📋 Features
 - User authentication system
